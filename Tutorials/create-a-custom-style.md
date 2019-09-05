@@ -18,7 +18,7 @@ prependJs:
 contentType: tutorial
 ---
 
-This guide will walk through how to create a custom style in the **Mapbox Studio style editor**. The Mapbox Studio Basic style is customizable, which lets you create a map style that conforms to your company's branding. This tutorial will show you how to customize the Mapbox Basic style by changing colors, fonts, and label properties. After you have completed the tutorial, you will have created a map style that reflects the Mapbox brand colors at any zoom level and at any place across the world.
+本指南将围绕讨论怎样创建一个自定义样式在 **Mapbox Studio style editor**中，Mapbox Studio 基本样式是可以定制的，这便于你创建一个地图样式来契合你公司的品牌。本教程将向你展示怎样定制一个Mapbox基本样式基于可更改的颜色，字体，文本标签等属性。当你完成这篇教程，你将可以创建一个地图样式它反映了Mapbox个性颜色在任何的缩放层级和在任何世界上任何一个地方
 
 {{
   <DemoIframe src="https://api.mapbox.com/styles/v1/examples/cji3d7gpt1i8m2rn7l7w0vl99.html?access_token=MapboxAccessToken#9.7/37.758664/-122.233084/0" />
