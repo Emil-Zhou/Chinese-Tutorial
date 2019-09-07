@@ -18,7 +18,8 @@ prependJs:
 contentType: tutorial
 ---
 
-本指南将围绕讨论怎样创建一个自定义样式在 **Mapbox Studio style editor**中，Mapbox Studio 基本样式是可以定制的，这便于你创建一个地图样式来契合你公司的品牌。本教程将向你展示怎样定制一个Mapbox基本样式基于可更改的颜色，字体，文本标签等属性。当你完成这篇教程，你将可以创建一个地图样式它反映了Mapbox个性颜色在任何的缩放层级和在任何世界上任何一个地方
+本指南将介绍如何在 **Mapbox Studio style editor**中创建一个自定义样式，Mapbox Studio 基本样式是可以定制的，这便于你创建符合你公司品牌的地图样式。
+本教程将向您展示如何通过更改颜色、字体和标签属性来定制Mapbox基本样式。在您完成本教程之后，您将完成创建一个地图样式，它可以在世界上任何缩放层级和任何地方反映Mapbox品牌的颜色。
 
 {{
   <DemoIframe src="https://api.mapbox.com/styles/v1/examples/cji3d7gpt1i8m2rn7l7w0vl99.html?access_token=MapboxAccessToken#9.7/37.758664/-122.233084/0" />
