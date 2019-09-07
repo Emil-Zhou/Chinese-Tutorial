@@ -25,16 +25,16 @@ contentType: tutorial
   <DemoIframe src="https://api.mapbox.com/styles/v1/examples/cji3d7gpt1i8m2rn7l7w0vl99.html?access_token=MapboxAccessToken#9.7/37.758664/-122.233084/0" />
 }}
 
-## Getting started
+## 开始
 
-You will need a few resources to get started:
+你需要一些用于开始的资源:
 
-- **Mapbox account**. Sign up for a free account on [Mapbox](https://account.mapbox.com/auth/signup/).
-- **Style guidelines**. It is often helpful to start a new custom map style with some broad style guidelines. Mapbox's brand has three primary colors (blue, gray, and pink) and a broader set of secondary colors. Every hue includes a dark, light, and faint variation. This tutorial will use a combination of these colors to style the background, water, buildings, and labels in a custom map style.
+- **Mapbox account**。 在[Mapbox](https://account.mapbox.com/auth/signup/)注册一个免费的账户
+- **Style guidelines**。 这些广泛的Style guidelines对于创建一个新的自定义地图样式是非常有帮助的。Mapbox的品牌有三种基色（蓝色，灰色，粉色）和一组更广泛的颜色。每种色调都包括暗、亮、微弱的变化。本教程将使用这些颜色的组合在一个自定义地图样式中为背景、水、建筑物和文字标签着色。
 
-## Create a new style
+## 创建一个新的样式
 
-Log in to your Mapbox account and navigate to the [Styles](https://studio.mapbox.com/styles) page. This is where all your map styles are listed. A [style](/help/glossary/style/) is a set of rules that defines how Mapbox draws your map on the page. It includes references to your data, map images (icons, markers, and patterns), fonts, and defines how all your data should be styled on the map. For more information about styles, read the [Styles](https://docs.mapbox.com/studio-manual/reference/styles/) section of the Mapbox Studio Manual.
+使用你的Mapbox帐号登陆并跳转到[Styles](https://studio.mapbox.com/styles)页面，那里会列出你所有的地图样式。一个[style](/help/glossary/style/) 是一组规则，它定义了Mapbox在页面上如何绘制你的地图。它包括了您数据、地图图像（图标、标记和模式）、字体的引用，并且定义了您所有数据在地图上的样式。更多关于样式的信息，请阅读Mapbox Studio手册的[Styles](https://docs.mapbox.com/studio-manual/reference/styles/) 部分。
 
 To create a new style from your [Styles](https://studio.mapbox.com/styles) page, click the **New style** button. Find the _Basic Template_ style and click **Customize Basic Template**.
 
