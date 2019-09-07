@@ -36,9 +36,10 @@ contentType: tutorial
 
 使用你的Mapbox帐号登陆并跳转到[Styles](https://studio.mapbox.com/styles)页面，那里会列出你所有的地图样式。一个[style](/help/glossary/style/) 是一组规则，它定义了Mapbox在页面上如何绘制你的地图。它包括了您数据、地图图像（图标、标记和模式）、字体的引用，并且定义了您所有数据在地图上的样式。更多关于样式的信息，请阅读Mapbox Studio手册的[Styles](https://docs.mapbox.com/studio-manual/reference/styles/) 部分。
 
-To create a new style from your [Styles](https://studio.mapbox.com/styles) page, click the **New style** button. Find the _Basic Template_ style and click **Customize Basic Template**.
+从您的创建一个新的样式
+从您的[Styles](https://studio.mapbox.com/styles)页面创建一个新的样式，请点击**New style**按钮。找到_Basic Template_样式并点击**Customize Basic Template**。
 
-The Mapbox Studio style editor will open, and you will be able to start creating a custom map style.
+Mapbox Studio 样式编辑器将会打开，您可以开始创建一个自定义地图样式。
 
 ## Customize your style
 
