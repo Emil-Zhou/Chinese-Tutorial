@@ -40,15 +40,15 @@ contentType: tutorial
 
 Mapbox Studio 样式编辑器将会打开，您可以开始创建一个自定义地图样式。
 
-## Customize your style
+## 自定义你的样式
 
-### The style editor
+### 样式编辑器
 
-The **Mapbox Studio style editor** is a visual tool for creating custom map styles. Look at the layers on the left side of the style editor screen. Each layer can be customized in a variety of ways, including by changing its colors. You can also filter layers within the layer list and edit the properties of multiple layers at once. This is the easiest way to change the color of layers with similar properties. To learn more about the Mapbox Studio style editor, visit the [Mapbox Studio Manual](https://docs.mapbox.com/studio-manual/reference/styles/).
+样式编辑器**Mapbox Studio style editor**是一个用于创建自定义地图样式的可视化工具。在样式编辑器界面的左侧您可以看到有一些图层。每一层都可以通过多种方式进行定制，包括更改其颜色。您还可以在图层列表中过滤图层，并同时编辑多个图层的属性。这是改变具有相似属性的图层颜色的最简单的方法。要了解更多关于Mapbox Studio style editor的信息，请访问[Mapbox Studio Manual](https://docs.mapbox.com/studio-manual/reference/styles/)。
 
-In this section, you will change the color of the water, background, and building layers and alter the fonts for various labels to create a customized map.
+在本节中，您将更改水、背景、构建层的颜色，并更改各种标签的字体，以创建自定义地图。
 
-But first, change the name of your new style. Click into the name field in the upper left side of the screen and change the name to _Mapbox Style_.
+但首先，更改你新样式的名字，点击屏幕左上角的name字段，将名字更改为 _Mapbox Style_.
 
 ### Style background and water layers
 
